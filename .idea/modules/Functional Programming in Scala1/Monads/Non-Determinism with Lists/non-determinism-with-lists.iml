@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="non-determinism-with-lists [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Monads/Non-Determinism%20with%20Lists/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Non-Determinism with Lists" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="non-determinism-with-lists" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Monads/Non-Determinism with Lists">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Monads/Non-Determinism with Lists/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="non-determinism-with-lists.main" />
+    <orderEntry type="module" module-name="non-determinism-with-lists.test" production-on-test="" />
+  </component>
+</module>

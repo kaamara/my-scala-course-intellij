@@ -1,0 +1,73 @@
+type: edu
+files:
+  - name: src/FilterTask.scala
+    visible: true
+    placeholders:
+      - offset: 96
+        length: 32
+        placeholder_text: /* Check if the cat is calico */
+        initial_state:
+          length: 32
+          offset: 96
+        initialized_from_dependency: false
+        encrypted_possible_answer: soxwMg1TpwPd2tAqrvlsEnEDGevi33Imqd8Dx5t+a8MMYNE4JYmELh4+wQsrV5RUHkoblJqJwgDUoqTv9FEKxQ==
+        selected: false
+        status: Unchecked
+      - offset: 207
+        length: 32
+        placeholder_text: /* Check if the cat is fluffy */
+        initial_state:
+          length: 32
+          offset: 207
+        initialized_from_dependency: false
+        encrypted_possible_answer: pxH+3oXi3APxl6Dgf2IET5kTKaydIyuclNcdofuJMXjfR+WPnrex3wsXEFROKohx9746RhwivJ174mf8QqQu6w==
+        selected: false
+        status: Unchecked
+      - offset: 334
+        length: 44
+        placeholder_text: /* Check if the cat's breed is Abyssinian */
+        initial_state:
+          length: 44
+          offset: 334
+        initialized_from_dependency: false
+        encrypted_possible_answer: +bfG4+406Ut6X0k4aiv4vcPFiWScZl6ikcqkgY5UlGs=
+        selected: false
+        status: Unchecked
+      - offset: 484
+        length: 54
+        placeholder_text: "/* Check if the cat is calico, fluffy or Abyssinian */"
+        initial_state:
+          length: 54
+          offset: 484
+        initialized_from_dependency: false
+        encrypted_possible_answer: MDfQ6J7WpLzl2ksYVgzTTGnm3ETjiQwgjGcVekeG4wUZK+8CndrlikqYYxd4G5WmT+Ah2nSvmrBlYbZ9p9inQA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/FilterTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/Cat.scala
+    visible: true
+    learner_created: false
+  - name: src/Color.scala
+    visible: true
+    learner_created: false
+  - name: src/Breed.scala
+    visible: true
+    learner_created: false
+  - name: src/Pattern.scala
+    visible: true
+    learner_created: false
+  - name: src/FurCharacteristic.scala
+    visible: true
+    learner_created: false
+  - name: FurCharacteristic$$anon$1.class
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/CaseClassCopyTask.scala
+    visible: true
+    placeholders:
+      - offset: 388
+        length: 25
+        placeholder_text: /* put parameters here */
+        initial_state:
+          length: 25
+          offset: 388
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9DNNv3s2Euytjy7JD128fKv4SE+F7LVBWLfbQWkeFeT1DXNmc9MgZxMx7lJ8BtZoA5QVIpM5acVQYgv0uI0Ozh31RYZp0ZXGRbfjrWJf3Z+1HS5x1Mi7vYtc9HCEE/ZF5oT7UsWl0BbUuQ3Kb/bQ2mRqRyhMMcgvOos8O2Qp2p98EtalPGmjB52OCJK207+zAFfbbcPcCMEcfq0W7G3dXDOpY16xeGQAzZhEbZt+d/dpM5V9ioZAHVjsPcufqYzVHIMxADWc9r2iUWtFy2W+cNEc8akuEcdq14fMrjZDuUwmRNtLlvVyNM47U9+V4YZZMraH1ReOnINwn/KL8NjOPw==
+        selected: false
+        status: Unchecked
+      - offset: 429
+        length: 29
+        placeholder_text: /* put implementation here */
+        initial_state:
+          length: 29
+          offset: 429
+        initialized_from_dependency: false
+        encrypted_possible_answer: Q2nep92rt+2FTgMLhqAiYdobEuaDTv+Rp37TZBRjzDtlclgNAT3XiRbfxuUYQ3VFamhHQhH85jCVZyuF/kT+ylXJBFxP2EgBCgvSHHzLCzQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/CaseClassCopyTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

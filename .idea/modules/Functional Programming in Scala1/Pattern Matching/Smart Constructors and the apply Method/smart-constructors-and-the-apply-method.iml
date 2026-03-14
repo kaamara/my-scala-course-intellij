@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="smart-constructors-and-the-apply-method [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Pattern%20Matching/Smart%20Constructors%20and%20the%20apply%20Method/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Smart Constructors and the apply Method" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="smart-constructors-and-the-apply-method" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Pattern Matching/Smart Constructors and the apply Method">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Pattern Matching/Smart Constructors and the apply Method/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="smart-constructors-and-the-apply-method.main" />
+    <orderEntry type="module" module-name="smart-constructors-and-the-apply-method.test" production-on-test="" />
+  </component>
+</module>

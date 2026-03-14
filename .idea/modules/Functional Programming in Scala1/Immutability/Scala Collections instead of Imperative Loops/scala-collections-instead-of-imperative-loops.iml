@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="scala-collections-instead-of-imperative-loops [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Immutability/Scala%20Collections%20instead%20of%20Imperative%20Loops/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Scala Collections instead of Imperative Loops" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="scala-collections-instead-of-imperative-loops" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Immutability/Scala Collections instead of Imperative Loops">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Immutability/Scala Collections instead of Imperative Loops/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="scala-collections-instead-of-imperative-loops.main" />
+    <orderEntry type="module" module-name="scala-collections-instead-of-imperative-loops.test" production-on-test="" />
+  </component>
+</module>

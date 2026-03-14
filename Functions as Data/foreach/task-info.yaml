@@ -1,0 +1,39 @@
+type: edu
+files:
+  - name: src/ForeachTask.scala
+    visible: true
+    placeholders:
+      - offset: 250
+        length: 52
+        placeholder_text: /* Use foreach to print short info about each cat */
+        initial_state:
+          length: 52
+          offset: 250
+        initialized_from_dependency: false
+        encrypted_possible_answer: tKL3RrmdzSLlBIygIZBROWEQbGcR2nUUbD8USRWtacs3K69x0UtSuHCjYJh4DG+lyRKJW45TxS5BThVaKv03Xg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/Pattern.scala
+    visible: true
+    learner_created: false
+  - name: src/Breed.scala
+    visible: true
+    learner_created: false
+  - name: src/Cat.scala
+    visible: true
+    learner_created: false
+  - name: src/FurCharacteristic.scala
+    visible: true
+    learner_created: false
+  - name: src/Color.scala
+    visible: true
+    learner_created: false
+  - name: test/ForeachTaskSpec.scala
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

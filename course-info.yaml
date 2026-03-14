@@ -1,0 +1,26 @@
+type: marketplace
+title: Functional Programming in Scala
+language: English
+summary: |-
+  <p>This is an introductory course to Functional Programming in Scala. The course is designed for learners who already have some basic knowledge of Scala. The course covers the core concepts of functional programming, including functions as data, immutability, and pattern matching. The course also includes hands-on examples and exercises to help students practice their new skills.</p>
+  <p>Have fun and good luck!</p>
+  <p>P.S. Want to contribute? Feel free to send a pull request to this course’s <a>git repo</a>.</p>
+programming_language: Scala
+environment: sbt
+content:
+  - Introduction
+  - Functions as Data
+  - Pattern Matching
+  - Immutability
+  - Expressions over Statements
+  - Early Returns
+  - Monads
+  - Conclusion
+additional_files:
+  - name: LICENSE
+  - name: project/build.properties
+  - name: build.sbt
+  - name: README.md
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/23833-functional-programming-in-scala/reviews
+yaml_version: 5

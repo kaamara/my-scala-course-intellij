@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="getting-to-know-you [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Introduction/Getting%20to%20Know%20You/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Introduction\Getting to Know You" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="getting-to-know-you" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Introduction/Getting to Know You">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Introduction/Getting to Know You/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="getting-to-know-you.main" />
+    <orderEntry type="module" module-name="getting-to-know-you.test" production-on-test="" />
+  </component>
+</module>

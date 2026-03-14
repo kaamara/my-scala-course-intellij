@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="converterVersion" value="2" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Conclusion\Feedback Survey" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Conclusion\Feedback Survey\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\Baby Steps" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\Baby Steps\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\Breaking Boundaries" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\Breaking Boundaries\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\Lazy Collection to the Rescue" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\Lazy Collection to the Rescue\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\The Problem" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\The Problem\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\Unapply" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\Unapply\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Nested Methods" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Nested Methods\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Pure vs Impure Functions" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Pure vs Impure Functions\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Recursion" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Recursion\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Tail Recursion" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Tail Recursion\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Using Clause for Carrying an Immutable Context" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\Using Clause for Carrying an Immutable Context\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\What is an Expression" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Expressions over Statements\What is an Expression\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\anonymous_functions" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\anonymous_functions\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\filter" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\filter\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\find" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\find\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\flatMap" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\flatMap\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\foldLeft" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\foldLeft\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\foreach" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\foreach\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\functions_returning_functions" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\functions_returning_functions\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\map" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\map\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\partial_fucntion_application" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\partial_fucntion_application\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\passing_functions_as_arguments" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\passing_functions_as_arguments\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\scala_collections_overview" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\scala_collections_overview\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\total_and_partial_functions" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\total_and_partial_functions\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\what_is_a_function" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\what_is_a_function\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\A View" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\A View\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Berliner Pattern" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Berliner Pattern\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Case Class Copy" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Case Class Copy\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Comparison of View and Lazy Collection" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Comparison of View and Lazy Collection\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Lazy List" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Lazy List\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Lazy Val" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Lazy Val\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Scala Collections instead of Imperative Loops" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\Scala Collections instead of Imperative Loops\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\The Builder Pattern" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\The Builder Pattern\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Introduction\About the Course" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Introduction\About the Course\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Introduction\Getting to Know You" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Introduction\Getting to Know You\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Introduction\Join Our Discord Community" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Introduction\Join Our Discord Community\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Either as an Alternative to Exceptions" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Either as an Alternative to Exceptions\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Monadic Laws" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Monadic Laws\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Non-Determinism with Lists" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Non-Determinism with Lists\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Option as an Alternative to null" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Option as an Alternative to null\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Syntactic Sugar and For-Comprehensions" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Syntactic Sugar and For-Comprehensions\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Use Try Instead of try-catch" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Use Try Instead of try-catch\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\A Custom unapply Method" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\A Custom unapply Method\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Case Class" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Case Class\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Case Objects" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Case Objects\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Destructuring" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Destructuring\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Enums" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Enums\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Pattern Matching" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Pattern Matching\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Sealed Traits Hierarchies" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Sealed Traits Hierarchies\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Smart Constructors and the apply Method" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\Smart Constructors and the apply Method\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\The Newtype Pattern" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\Pattern Matching\The Newtype Pattern\project" />
+            <option value="C:\Users\HARDPC\Functional Programming in Scala1\project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.8.0" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

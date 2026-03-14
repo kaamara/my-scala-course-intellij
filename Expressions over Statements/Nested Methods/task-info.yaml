@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: test/NestedTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/NestedTask.scala
+    visible: true
+    placeholders:
+      - offset: 123
+        length: 26
+        placeholder_text: "        def h(): Unit = ()"
+        initial_state:
+          length: 26
+          offset: 123
+        initialized_from_dependency: false
+        encrypted_possible_answer: DPhm20E0S4pjkj0doHt6VBLZ2Fs3jEddEg1UoGL7GEY=
+        selected: false
+        status: Unchecked
+      - offset: 325
+        length: 22
+        placeholder_text: "    def g(): Unit = ()"
+        initial_state:
+          length: 22
+          offset: 325
+        initialized_from_dependency: false
+        encrypted_possible_answer: vjo5AlXOdKWqvGwiFg+O88iTZQdeL7gNZPUmssvp1jE=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

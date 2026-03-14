@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/DestructuringTask.scala
+    visible: true
+    placeholders:
+      - offset: 138
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 138
+        initialized_from_dependency: false
+        encrypted_possible_answer: s0GUPb6GbqGS/kMXWIELWvrstvWPPd3fCDqyUNEdIT5iXcl4oM2TUIVIvZKN1GPgjYw4Ux03wNSU77HDfBwgcW8b1GuT1UvBaTH679pflZ3vqTmp4gaT/Z/D1X2KL9fXgDTtl3uE3TMMI+vZzNjJY6anvcQ2eHt23l45jeMnEEr+WWhlKdESeWwTFdje44yqR/UhFaWSqqHfecU8cxfm1nz+Z8wN/G4OS234ucPnSxdc0LW3lQ3WvFEXfTDAW2m+m6RoGkpG7wanAgI7VEEyWoL4idklDJnKVJOlLdRy04EeeZ6zgat3ebOcRI+P2k96RWi+mnK5wdGWVS87bmDKoxVCg2C0ezK+7MViYvS3JHgGin1F6m0q+r7tYcgPzdVea0ACpFxiW7CVl+624/FiTW6Srb2eYgKHr5ItigPNtWf7khSHXCL1syDBftezTEMuh/5UMf3OmufMCY91W3bnXqeMUuUlamwS121iXVMz9p0nRN16lHgkzdayQjIamW/E
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/DestructuringTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,35 @@
+type: edu
+custom_name: Partial Function Application
+files:
+  - name: src/PartialApplicationTask.scala
+    visible: true
+    placeholders:
+      - offset: 183
+        length: 44
+        placeholder_text: /* Put the arguments of the function here */
+        initial_state:
+          length: 44
+          offset: 183
+        initialized_from_dependency: false
+        encrypted_possible_answer: f8jPVxjx00YWJl4UWJNi3cwEw4f8h5HMY3wL9VlWDbQ=
+        selected: false
+        status: Unchecked
+      - offset: 235
+        length: 33
+        placeholder_text: /* Put the implementation here */
+        initial_state:
+          length: 33
+          offset: 235
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ep7dwpdeB3e8QGZXpjLeyQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/PartialApplicationTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

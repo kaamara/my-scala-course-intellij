@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="option-as-an-alternative-to-null [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Monads/Option%20as%20an%20Alternative%20to%20null/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Option as an Alternative to null" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="option-as-an-alternative-to-null" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Monads/Option as an Alternative to null">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Monads/Option as an Alternative to null/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="option-as-an-alternative-to-null.main" />
+    <orderEntry type="module" module-name="option-as-an-alternative-to-null.test" production-on-test="" />
+  </component>
+</module>

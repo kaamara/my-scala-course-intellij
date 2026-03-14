@@ -1,0 +1,7 @@
+content:
+  - What is an Expression
+  - Nested Methods
+  - Pure vs Impure Functions
+  - Recursion
+  - Tail Recursion
+  - Using Clause for Carrying an Immutable Context

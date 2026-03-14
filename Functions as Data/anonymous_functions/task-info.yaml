@@ -1,0 +1,25 @@
+type: edu
+custom_name: Anonymous Functions
+files:
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: test/AnonymousFunctionsSpec.scala
+    visible: false
+    learner_created: false
+  - name: src/AnonymousFunctions.scala
+    visible: true
+    placeholders:
+      - offset: 122
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 122
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6IdSE9LHevhqGVR1YELTwkg/R8R+WzriN/VH0brhJbvUROuJYNncAUekADh3FEib
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

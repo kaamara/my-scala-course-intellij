@@ -1,0 +1,115 @@
+type: edu
+files:
+  - name: test/TestSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/EarlyReturns.scala
+    visible: true
+    learner_created: false
+  - name: src/Pattern.scala
+    visible: true
+    learner_created: false
+  - name: src/FurCharacteristic.scala
+    visible: true
+    learner_created: false
+  - name: src/Color.scala
+    visible: true
+    learner_created: false
+  - name: src/Breed.scala
+    visible: true
+    learner_created: false
+  - name: src/Database.scala
+    visible: true
+    learner_created: false
+  - name: src/Cat.scala
+    visible: true
+    learner_created: false
+  - name: src/Task.scala
+    visible: true
+    placeholders:
+      - offset: 1285
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1285
+        initialized_from_dependency: false
+        encrypted_possible_answer: QmoHVHx0IsOLF2NRUXZQvLAlIoe25uwtxVtlGV9TiU0CTkOFjGRIZxiorK1W+x1lC7tOQgoG9k3pJ8RbrdjoLbbimVdYAx/yERAhYbUcpF4cf15cZy4wMldKqVIK3zjcBmR8bQJMriC7ZkRCDDxxLoWrwvMNMCLVSXCTr85OJ14=
+        selected: false
+        status: Unchecked
+      - offset: 1563
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1563
+        initialized_from_dependency: false
+        encrypted_possible_answer: jQAXKi54/+KI3Lk24lnh8hi86QcWoa95CEoenHN60IuPwQE7TYZCex3BhyaK4PtVHUaTg4G3k6cMhtiF0ZV9dgrhKc0t+3eZmZFZ6TwfZ1HxQiMIR5owTCfjxBaGGLk62cFZFYHzTRs9e2971g0PPhkvOZ2F2PWYwpKgcj8pcFvJUeiVPvCGUOdFhhti2vmxLOwDsjtbP5QqPk3Ufbf0ow==
+        selected: false
+        status: Unchecked
+      - offset: 1763
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1763
+        initialized_from_dependency: false
+        encrypted_possible_answer: Zo4juiAnFqDXgK5xFgPUsebIoUwAEFNyVYhzVZ2z+Isaz2Ud5KvxgE1k3pfdi7e0DSOaJbtb45VDQC7xEOSYTwjoDmyNl8PnWp3t1lpHrpk=
+        selected: false
+        status: Unchecked
+      - offset: 2039
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2039
+        initialized_from_dependency: false
+        encrypted_possible_answer: wCFmde1nvadQ0evTbvBtZeFSbpJqtiKAllL7kVNU7wLrTSvDbRY3qzjXAiDDqrBGgC69lZiCAn9wxG+GO3Ur2Q==
+        selected: false
+        status: Unchecked
+      - offset: 3123
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3123
+        initialized_from_dependency: false
+        encrypted_possible_answer: PmiHFyalPbvfnnjDYa4RgVUnpYfUOMe2DdDynY9hZvjxKAvSQKVV3Wsf2EORlOkv
+        selected: false
+        status: Unchecked
+      - offset: 3750
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3750
+        initialized_from_dependency: false
+        encrypted_possible_answer: Zo4juiAnFqDXgK5xFgPUsQ/UflBWPwfZ24SsjyNaMdo=
+        selected: false
+        status: Unchecked
+      - offset: 3815
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3815
+        initialized_from_dependency: false
+        encrypted_possible_answer: T9oRyXDLuv1RAdHMlLyF5WUuicuJAT/k/o8J8I7Ox3o=
+        selected: false
+        status: Unchecked
+      - offset: 4130
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 4130
+        initialized_from_dependency: false
+        encrypted_possible_answer: wCFmde1nvadQ0evTbvBtZeFSbpJqtiKAllL7kVNU7wJiZKUidPrgWr6rIIXfxD2kwyB/iHRMPx4vzjQ39faTqA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/RecursionTask.scala
+    visible: true
+    placeholders:
+      - offset: 288
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 288
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ho4AcW65NxHTKpCwt3LtBmlP7if7VdvpE0GV8jtQ+eb9UBSPIdSt8MK58eTxkYGbVETZf90skY3HHYjsdmuhwqsFygLpg0GtiEJYyhMn2dXOUVlzMRW/62fMwtwNf9pwwK6JJ3KzsTuXXklA8W8HrgPmN9V7fbOJq2YHYaFS+4fq3Uhpzp1nD5F9GHzuHAeA4OwOm6ojyRmFVF+e0L+K/4buP16N8yK8YXBy77aF892kWsofR+kpurVLHS+wRTB0ajon1OAwd/HRwD7h7SVN4A==
+        selected: false
+        status: Unchecked
+      - offset: 345
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 345
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ho4AcW65NxHTKpCwt3LtBmlP7if7VdvpE0GV8jtQ+eZ20LOD1QqJeStfmUlX2/anJP5dVq7MlSoAQBZSOFcYGNXmMskTO82DkgiQIfUMZOwuPo1TRW3EZU2OY7XAzcLtHnqPalVqEFF1jNcvSkjni81UoN5Q8514BuZZtxKns5gspHEmUE23NUansJ/fLLcrr7STyGDwKUozJ04RIDqmyocy3ij79jTcplEVjWFBXDucUt0kH5HWQZ6nZ8WwdDe0PzgJXndwDD+dmap9H+wui9QYS6mDGk3lWD9ynMh2oFKymbEZfSr2HBhlwRF/DdK7rVqPkVf4eFqxN5xnUC4wdofqgak8Ffs/UvlKcafokMQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/RecursionTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

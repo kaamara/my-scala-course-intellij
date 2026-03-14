@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="either-as-an-alternative-to-exceptions [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Monads/Either%20as%20an%20Alternative%20to%20Exceptions/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Monads\Either as an Alternative to Exceptions" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="either-as-an-alternative-to-exceptions" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Monads/Either as an Alternative to Exceptions">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Monads/Either as an Alternative to Exceptions/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="either-as-an-alternative-to-exceptions.main" />
+    <orderEntry type="module" module-name="either-as-an-alternative-to-exceptions.test" production-on-test="" />
+  </component>
+</module>

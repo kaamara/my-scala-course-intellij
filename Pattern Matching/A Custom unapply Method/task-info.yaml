@@ -1,0 +1,25 @@
+type: edu
+custom_name: A Custom unapply Method
+files:
+  - name: src/CustomUnapplyTask.scala
+    visible: true
+    placeholders:
+      - offset: 242
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 242
+        initialized_from_dependency: false
+        encrypted_possible_answer: jT009c2n61N8Tx1ynh/7fM0qkJfaGZEuUw8ihiB3G/QEHWcQYTQT2/WqqpoQDlmztkCI4BMopcIiOG9djPeSDQUnO13y2Zu56rgHTEqqSlZ9txo8mmH9u9DzOlOavtk+Gq+sd1hT6AiyzFF77XrkuahX58woHO0bulcu0pJ1pSPedlR0afHo95PbFhZ6IPxgAAzrg06ogW124+CvPswFoTyjWHcqWDX6Z0ui8miKYHhLZ439cWgc4zN0RwRSoL7z63x/FVRwJbgdaXcG0GxDGw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/CustomUnapplyTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

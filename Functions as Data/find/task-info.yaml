@@ -1,0 +1,69 @@
+type: edu
+files:
+  - name: src/FindTask.scala
+    visible: true
+    placeholders:
+      - offset: 65
+        length: 42
+        placeholder_text: /* Check if the cat is white and fluffy */
+        initial_state:
+          length: 42
+          offset: 65
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0nON8Iubi6pd5a/rPaSWPEGJJMY1rVBEAx1Obdb2iH3qECBS/ziAv+BibWIv1v6u86+EE9SKTBIVOGSNYCZ2LW1rzRM9yek17bOqYmQyCA0re09zxEoJ67F9X2v0NxoSMV1s6LeF6XXgQkb6oYINow==
+        selected: false
+        status: Unchecked
+      - offset: 177
+        length: 42
+        placeholder_text: /* Find a cat which is white and fluffy */
+        initial_state:
+          length: 42
+          offset: 177
+        initialized_from_dependency: false
+        encrypted_possible_answer: njqfyf1iGb0M6QQuzLPjIGdphLm2meeeSo9y59rVnolkUkPPMce7iyzUgAwh96Pm
+        selected: false
+        status: Unchecked
+      - offset: 271
+        length: 44
+        placeholder_text: /* Check if the cat is calico and persian */
+        initial_state:
+          length: 44
+          offset: 271
+        initialized_from_dependency: false
+        encrypted_possible_answer: +bfG4+406Ut6X0k4aiv4vdFDmVA2alceb+0LoT9BCkT7b00uu/b16O/cnwWqqeWdXSLwcFlgXKyC/9hvVklaq73NiKsliN1yUiRgJle3RFVj+wA9XIVcvGLsdA6z+5Fj
+        selected: false
+        status: Unchecked
+      - offset: 384
+        length: 44
+        placeholder_text: /* Find a cat which is calico and persian */
+        initial_state:
+          length: 44
+          offset: 384
+        initialized_from_dependency: false
+        encrypted_possible_answer: njqfyf1iGb0M6QQuzLPjICuGZ760vQtRrWk9YFjP94hjnOvXoWVlUoy5Y4CmJfKh
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/FindTaskTest.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/Pattern.scala
+    visible: true
+    learner_created: false
+  - name: src/Cat.scala
+    visible: true
+    learner_created: false
+  - name: src/Breed.scala
+    visible: true
+    learner_created: false
+  - name: src/FurCharacteristic.scala
+    visible: true
+    learner_created: false
+  - name: src/Color.scala
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

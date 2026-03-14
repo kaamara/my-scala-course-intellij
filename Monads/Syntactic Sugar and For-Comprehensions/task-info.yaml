@@ -1,0 +1,74 @@
+type: edu
+files:
+  - name: src/Task.scala
+    visible: true
+    placeholders:
+      - offset: 1171
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1171
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9l6NdN9xAoVCzpXT9Va2XQ==
+        selected: false
+        status: Unchecked
+      - offset: 1204
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1204
+        initialized_from_dependency: false
+        encrypted_possible_answer: La+LyRo78L5wdZqUMr1QnTtU/Iaeykikr64KR23URsz1JMulak+HEtJkLpFxGyLX
+        selected: false
+        status: Unchecked
+      - offset: 1237
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1237
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6KW/ILGWSTi3Qi5ues2iaD5lFpfckhFbLs0Ql/Kdzy/RHXogAGzQJK07EPtj29P+o4QJ92dvbf1n7t7gTbnxMQ==
+        selected: false
+        status: Unchecked
+      - offset: 1262
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1262
+        initialized_from_dependency: false
+        encrypted_possible_answer: K+KQqTu+dLNgJqG6k1K80Q==
+        selected: false
+        status: Unchecked
+      - offset: 1593
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1593
+        initialized_from_dependency: false
+        encrypted_possible_answer: hYIS+pQhG+kqbSMpxOuKJOXlp/LcujXVNhFxLVAX2iQMstWS1Yln8Mm3kf1DzrAn
+        selected: false
+        status: Unchecked
+      - offset: 1618
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1618
+        initialized_from_dependency: false
+        encrypted_possible_answer: W6K299vdR2NkJbN8IBGHdw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/TestSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

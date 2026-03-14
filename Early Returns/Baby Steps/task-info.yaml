@@ -1,0 +1,85 @@
+type: edu
+files:
+  - name: src/Task.scala
+    visible: true
+    placeholders:
+      - offset: 434
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 434
+        initialized_from_dependency: false
+        encrypted_possible_answer: jQAXKi54/+KI3Lk24lnh8hi86QcWoa95CEoenHN60IsNkAbSFIz1qJ2v7oGP4LZpqqo1SlPPhfndv1FwzjuoOumU/UOkoHpeUiVPHwHIGxGg5Vmc+GcKEmRIW6YGZ5zeVQPhrUyb1TUXF3lRFgfBwA==
+        selected: false
+        status: Unchecked
+      - offset: 1545
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1545
+        initialized_from_dependency: false
+        encrypted_possible_answer: QmoHVHx0IsOLF2NRUXZQvLAlIoe25uwtxVtlGV9TiU0CTkOFjGRIZxiorK1W+x1lC7tOQgoG9k3pJ8RbrdjoLbbimVdYAx/yERAhYbUcpF4cf15cZy4wMldKqVIK3zjcBmR8bQJMriC7ZkRCDDxxLoWrwvMNMCLVSXCTr85OJ14=
+        selected: false
+        status: Unchecked
+      - offset: 1851
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1851
+        initialized_from_dependency: false
+        encrypted_possible_answer: FUQ3Jw547x2P0j5F6lx/OgOCYjKD0UugoBOErhBLVs3t0exi1vnqzUaBF/9VqqPp1D49VemBIg/W4nYewufBXf7txfQHJuHvK4j250j8btk60u3zwmksViFK6ONTqxUfJ7UWbb5IZJFfYVr4lQIyUuW2MsvJw7qBEzE3z9csw+/6y38IrpnF6D3vrlN6uv9Y
+        selected: false
+        status: Unchecked
+      - offset: 2143
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2143
+        initialized_from_dependency: false
+        encrypted_possible_answer: knKO4IYahry1c20So7mYrzfq5NurrSISxCgZRmHGUy/7bwRXIEqRtj2XG9MzsA8fWqU0k4qaOQmx/UvZqWYyf8KZxlTkmTcdTnMnYO66n32Q8ZK2fL33ieGkSTVBu5wjbE0EpHJ4aHuXNI2hpozGYw==
+        selected: false
+        status: Unchecked
+      - offset: 2421
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2421
+        initialized_from_dependency: false
+        encrypted_possible_answer: qEhB7Di/+8v4KidPurFmClNvj9StDbYLkdueyVAB6Qxu8DuSPGdHAbQJAMFqFKygpRhp7orgwpnmx0ZLqAXAveIvcCui6b7RHdJgxRjHSaK1m4FiEOJ1sgHsAyNKK03FFsdA/rNm7DB9k/i4+1mzbGXs1ddFZVO3c5DicWrPDwk=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/TestSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/EarlyReturns.scala
+    visible: true
+    learner_created: false
+  - name: src/Cat.scala
+    visible: true
+    learner_created: false
+  - name: src/FurCharacteristic.scala
+    visible: true
+    learner_created: false
+  - name: src/Pattern.scala
+    visible: true
+    learner_created: false
+  - name: src/Color.scala
+    visible: true
+    learner_created: false
+  - name: src/Breed.scala
+    visible: true
+    learner_created: false
+  - name: src/Database.scala
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

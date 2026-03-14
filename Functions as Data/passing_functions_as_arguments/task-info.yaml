@@ -1,0 +1,59 @@
+type: edu
+custom_name: Passing Functions as Arguments
+files:
+  - name: src/PassingFunctionsAsArguments.scala
+    visible: true
+    placeholders:
+      - offset: 514
+        length: 31
+        placeholder_text: /* Check if the cat is white */
+        initial_state:
+          length: 31
+          offset: 514
+        initialized_from_dependency: false
+        encrypted_possible_answer: e5XinWy++sL1yS2v4a6H2Rf+ZdAnNWNTlfC726L3s+SKpxk5w5i7uF+KYkOA2iiD51+WvohhgkWtPrQztTl42g==
+        selected: false
+        status: Unchecked
+      - offset: 675
+        length: 36
+        placeholder_text: /* Pass a function as an argument */
+        initial_state:
+          length: 36
+          offset: 675
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7r2gtTakGa8ufCAZYYnbQ3GXObdMfeBFpV05usSAFU0=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/PassingFunctionsAsArgumentsSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: PassingFunctionsAsArguments.class
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: PassingFunctionsAsArguments$Color$.class
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: PassingFunctionsAsArguments$Color$$anon$1.class
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: PassingFunctionsAsArguments$Color.class
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: PassingFunctionsAsArguments$.class
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: PassingFunctionsAsArguments$Cat.class
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1

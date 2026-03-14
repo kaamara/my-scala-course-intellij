@@ -1,0 +1,40 @@
+type: edu
+files:
+  - name: src/FlatMapTask.scala
+    visible: true
+    placeholders:
+      - offset: 103
+        length: 66
+        placeholder_text: /* Use flatMap to aggregate all fur characteristics of all cats
+          */
+        initial_state:
+          length: 66
+          offset: 103
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7hV83O5cdg01ECDCz2hZElJDTGYrFQXBW41+utRmOO3e/66/zWI1LcqfVxR/Xw+V
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/FlatMapTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/Color.scala
+    visible: true
+    learner_created: false
+  - name: src/Breed.scala
+    visible: true
+    learner_created: false
+  - name: src/Cat.scala
+    visible: true
+    learner_created: false
+  - name: src/FurCharacteristic.scala
+    visible: true
+    learner_created: false
+  - name: src/Pattern.scala
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

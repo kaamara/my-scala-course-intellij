@@ -1,0 +1,40 @@
+type: edu
+files:
+  - name: src/MapTask.scala
+    visible: true
+    placeholders:
+      - offset: 137
+        length: 64
+        placeholder_text: /* Use `map` to convert each fur characteristic into a string
+          */
+        initial_state:
+          length: 64
+          offset: 137
+        initialized_from_dependency: false
+        encrypted_possible_answer: pxH+3oXi3APxl6Dgf2IET+BmvnV2W/ydd+qG5Ixl2feIqA/15aYL+33GiIM/M/HD
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/MapTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/FurCharacteristic.scala
+    visible: true
+    learner_created: false
+  - name: src/Color.scala
+    visible: true
+    learner_created: false
+  - name: src/Pattern.scala
+    visible: true
+    learner_created: false
+  - name: src/Cat.scala
+    visible: true
+    learner_created: false
+  - name: src/Breed.scala
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

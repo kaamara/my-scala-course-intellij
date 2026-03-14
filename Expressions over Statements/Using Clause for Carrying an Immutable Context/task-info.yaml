@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/UsingTask.scala
+    visible: true
+    placeholders:
+      - offset: 518
+        length: 35
+        placeholder_text: /* put comparator parameter here */
+        initial_state:
+          length: 35
+          offset: 518
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZsRJhDueWgcS0JEjt96NGmjl3cHCefVoeeWmwkG91SywM7bpYWqpGRIPSpeGw6Q4
+        selected: false
+        status: Unchecked
+      - offset: 570
+        length: 28
+        placeholder_text: /* implement the function */
+        initial_state:
+          length: 28
+          offset: 570
+        initialized_from_dependency: false
+        encrypted_possible_answer: RQ0TyeOxX7R0kNIt08To+2tT9gV/L7ooy0DSRweQMRLxwL+r9FxJFHFo2Fiu3lKxjlo7WuJxE/IHGiaShc/iZqzN7Ax0S1Bstsh6+jxC74TEtjS2J2xnRpDdu5Xv5BLwynbfBoLVF9yNLW0lqWkzCSVEYGiHXN7jejkFqfqGVreD2lYUuwVXGdES1/rtLHVEhd9RhyAgon1zZ+PznZzkFytMReRqZ02JaEhKGcEUMmtDuZA0SkZ4fQ6NjPRIv+7xnzxZmGrnFH4MSodaxq3Xi4a4YPkbgtUOX2vO0KsN6fj8aohy5SsZBcuDGyd3Ws8gahEG4mGEf3xTfLOEQrIQj/6djrioR4oH6d2swyUs4y2tWSBb2lcTQbjOMw+OtICrmvGnOx42pMK5CCcj4IE9gw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/UsingTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

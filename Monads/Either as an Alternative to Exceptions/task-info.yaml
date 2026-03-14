@@ -1,0 +1,54 @@
+type: edu
+files:
+  - name: src/Task.scala
+    visible: true
+    placeholders:
+      - offset: 1043
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1043
+        initialized_from_dependency: false
+        encrypted_possible_answer: RrvBS5nzQ57Q51LNoPaXBvU4fHTLoBOrC89sU2tcTQMKKjGRJpQanemfahP08+AiIFytY4oocu4s/OegbYVVNMdpTrg/AvMnCjkWif1QBUgGBQa2NmfvBvbKSk0X6iQ9
+        selected: false
+        status: Unchecked
+      - offset: 1093
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1093
+        initialized_from_dependency: false
+        encrypted_possible_answer: A9EZzjtFk0w0IaK1l7380WoH/lStEy+ABPawhq7L8FWEBJLq7aGD6z7DhYLJHCik
+        selected: false
+        status: Unchecked
+      - offset: 1122
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1122
+        initialized_from_dependency: false
+        encrypted_possible_answer: Hm8djcpSvoRoaKEcJ9ctQlL2aJ5TCmOtBVJZPaewIzdb2aVPzcFAkCLnUe0IDX7U70xZeA7P1BOiRpy7Rq4raw==
+        selected: false
+        status: Unchecked
+      - offset: 1440
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1440
+        initialized_from_dependency: false
+        encrypted_possible_answer: pTS/0piBU6rYCH1tXS/vuCz8XzIzBPwJnNNaZL0HqUL2+55J66r9KnkhZkQlKRaa2+QdHg1zBzNAGtQgG4W/1A==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/TestSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,64 @@
+type: edu
+files:
+  - name: src/NewtypePatternTask.scala
+    visible: true
+    placeholders:
+      - offset: 425
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 425
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7i+m1ixC3Bipu4TUi9uAVZJc+P2RRGUU6/2+SZmdAxAJKyKisISjgrI6Qjn19F+NP1YfWF//Z9RMuZJqgnCLOHbucz5APFcS5vV+izlErSaiHP+K1QVzS72SYeykO2NlgYIubv9dabs3epF9luttXeNkNbPg6cV47FqJNwNmA9EKG1T4kD68WC6hOmx4YHqBzAWUtByRXl+aox17valFBQKpkGUB2Zdxqzo0pHDPHJ8kbgmMP2GgRcA/gbemwfL6wttJBjagSx8SxaIYXTmX0UZE7E6YTEPLLGn8gF/KlDw=
+        selected: false
+        status: Unchecked
+      - offset: 548
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 548
+        initialized_from_dependency: false
+        encrypted_possible_answer: mURpwMC7cChMcdAJhrsKmfgQscJB22ZvvB6m2UHZ7kGlhYHJWvWq0OMR1opOIa5QKNxoIWY0Nf4E8y/IIMfNRA==
+        selected: false
+        status: Unchecked
+      - offset: 657
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 657
+        initialized_from_dependency: false
+        encrypted_possible_answer: mURpwMC7cChMcdAJhrsKmfgQscJB22ZvvB6m2UHZ7kGjOCKSIHGO4wfpTctwGYYX
+        selected: false
+        status: Unchecked
+      - offset: 782
+        length: 39
+        placeholder_text: /* put distanceWalked in meters here */
+        initial_state:
+          length: 39
+          offset: 782
+        initialized_from_dependency: false
+        encrypted_possible_answer: FFmBfT97AvECzHgTFj83mg==
+        selected: false
+        status: Unchecked
+      - offset: 856
+        length: 37
+        placeholder_text: /* put distanceWalked in feet here */
+        initial_state:
+          length: 37
+          offset: 856
+        initialized_from_dependency: false
+        encrypted_possible_answer: GIfI3LxoqtmkkOMMEPSg9mYJbc3GewyJbwqidJL7xSA=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/NewtypePatternTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

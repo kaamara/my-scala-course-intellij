@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/TailRecursionTask.scala
+    visible: true
+    placeholders:
+      - offset: 128
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 128
+        initialized_from_dependency: false
+        encrypted_possible_answer: N7iThXJmBAEpl59j0fSBwHJL5gs4aszxn7vYbPAjbclvLTF/jCPj6Co8MmAsOSlQHMOHeKt0cLvSDxaQTROcTJ1IZQeB7e/oqt1/o5cTkwMuDfoJojUqVgoC0eRdNJLxaxJj2Rb2gOAxD64KyMd9S2IVcChmyEHTfBPLO6ImAls6t5T/vfgW5K7DTCCg6QbL
+        selected: false
+        status: Unchecked
+      - offset: 196
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 196
+        initialized_from_dependency: false
+        encrypted_possible_answer: Vtf1OhAfKqVUSMN3wcqbvPg7ihwd/J9zd+yJrUqCXPw9XuqRuPHY+5INSnW8V8iawVljL7g7BknyBQQWmZOpKjLJVtYQDyaWAclhNGjcH7KnsAWzPRti2CXUXMEkKN/7dGDmZMwgxP4dKhQa77scIscJ82eMTSw2WSudeHTjUeg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/TailRecursionTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="baby-steps [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Early%20Returns/Baby%20Steps/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Early Returns\Baby Steps" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="baby-steps" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Early Returns/Baby Steps">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Early Returns/Baby Steps/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="baby-steps.main" />
+    <orderEntry type="module" module-name="baby-steps.test" production-on-test="" />
+  </component>
+</module>

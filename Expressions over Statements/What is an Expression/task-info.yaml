@@ -1,0 +1,60 @@
+type: edu
+custom_name: What is an Expression?
+files:
+  - name: src/WhatIsExpressionTask.scala
+    visible: true
+    placeholders:
+      - offset: 58
+        length: 151
+        placeholder_text: "/* Rewrite this code into an expression\n    var result = 0\
+      \ \n    if (n < 0) {\n      result = -n\n    }\n    else {\n      result = n\
+      \ \n    }\n    result \n */"
+        initial_state:
+          length: 151
+          offset: 58
+        initialized_from_dependency: false
+        encrypted_possible_answer: cEVoBr2oyzl844zgSa2Cl7OBuQlo3gk4k9WCOn3mpOo=
+        selected: false
+        status: Unchecked
+      - offset: 268
+        length: 127
+        placeholder_text: "/* Rewrite this code into an expression\n    var result = \"\
+      \"\n    for (str <- strings) {\n      result += str\n    }\n    result \n*/"
+        initial_state:
+          length: 127
+          offset: 268
+        initialized_from_dependency: false
+        encrypted_possible_answer: XLi2Eqe/HkyfzHbPFHUuUpI7WmjPq6daMXkWc6GEYt0/GLmTApGd4Rb1cFJhEbA9
+        selected: false
+        status: Unchecked
+      - offset: 471
+        length: 110
+        placeholder_text: /* Implement a function which finds the absolute difference
+          of the corresponding elements of the two arrays */
+        initial_state:
+          length: 110
+          offset: 471
+        initialized_from_dependency: false
+        encrypted_possible_answer: lqI3fQpCgbe5pwvR6gQfTQjQ+QzB/IDHAG2ToBfsROp9NaTYh2iJGJCWNCgninkRDXI0VSt+wpJRIvG2OY3BhQ==
+        selected: false
+        status: Unchecked
+      - offset: 647
+        length: 79
+        placeholder_text: /* Implement a function which finds the longest common prefix
+          of the strings */
+        initial_state:
+          length: 79
+          offset: 647
+        initialized_from_dependency: false
+        encrypted_possible_answer: kvySWNMiwE9/ZfUENkbKm0Dos5B3qTfbKzx/udX9PTQQ4y4skoISwnPeaizFP4ZV9sNvx6o+eyE2xLN4VZvhCNw+SqZ5xVMnqQfnqw+M7XySr7E5X9OUGp9E2idgr/bF7H9PzFMj3frMCQ2qlFxdGNIutl/VuOVt6aYfjMeAYVLDP1LsU8NYevesy38KCepyJwog92CpI+fR7Doi/NtLZ5IJRhhEZd5hZurQ6yhu48L0tNk6v57+qM42ajRbMBze
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/WhatIsExpressionTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

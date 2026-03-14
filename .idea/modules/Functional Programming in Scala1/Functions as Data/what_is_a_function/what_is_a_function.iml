@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="what_is_a_function [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Functions%20as%20Data/what_is_a_function/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Functions as Data\what_is_a_function" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="what_is_a_function" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Functions as Data/what_is_a_function">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Functions as Data/what_is_a_function/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="what_is_a_function.main" />
+    <orderEntry type="module" module-name="what_is_a_function.test" production-on-test="" />
+  </component>
+</module>

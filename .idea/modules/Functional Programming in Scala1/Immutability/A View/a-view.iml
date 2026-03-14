@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="a-view [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Immutability/A%20View/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Immutability\A View" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="a-view" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Immutability/A View">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Immutability/A View/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="a-view.main" />
+    <orderEntry type="module" module-name="a-view.test" production-on-test="" />
+  </component>
+</module>

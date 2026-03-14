@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: src/Task.scala
+    visible: true
+    placeholders:
+      - offset: 675
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 675
+        initialized_from_dependency: false
+        encrypted_possible_answer: XVFCFeiw5/B3p6foFSc72Q==
+        selected: false
+        status: Unchecked
+      - offset: 695
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 695
+        initialized_from_dependency: false
+        encrypted_possible_answer: XVFCFeiw5/B3p6foFSc72Q==
+        selected: false
+        status: Unchecked
+      - offset: 1007
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1007
+        initialized_from_dependency: false
+        encrypted_possible_answer: pTS/0piBU6rYCH1tXS/vuKubHEWzYs2W/8DMx3GsFpV2Mf21Lep99A00ANvhGrOm
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/TestSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

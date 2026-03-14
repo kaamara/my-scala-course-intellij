@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: test/PureVsImpureTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/PureVsImpureTask.scala
+    visible: true
+    placeholders:
+      - offset: 416
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 416
+        initialized_from_dependency: false
+        encrypted_possible_answer: MXgJog/SMC395yxbOohedz987wDyPklF+TddTmzloKjlEXbE6GkDieCbKEEFFkfRIzwsWnRnz+0jJxMWhK99NScX9ezQBrkm/R4oT/8bTw1X5YvEMPMpr85egxkAQO6z9+4Vw4o4l8RIwC8IOYXPO8LK3cEHS3jb4Ko66IGxUwSWWjakghxYkeg0IJ5WkHpm0NphZZZPchlCFjklb15yRfrO0O75HP6HWcJXk57pX4M=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

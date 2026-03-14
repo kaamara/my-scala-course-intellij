@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/LazyListTask.scala
+    visible: true
+    placeholders:
+      - offset: 73
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 73
+        initialized_from_dependency: false
+        encrypted_possible_answer: VlH4rIIcbsGpDSSPubBUXarKC7eq9ZHkbUsiAURT/c8wUmjmM4iSnANuDhqZGDrETBVqIhAjRWB4i+2FoxadnLpeA/+lxqrzgAHyJKcr1oTfbxvejRD8MvOs9qHE99N5Eai9sQsCTGyF5Lfg46rt8865kqsElBeT4DfO1JSaavY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/LazyListTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

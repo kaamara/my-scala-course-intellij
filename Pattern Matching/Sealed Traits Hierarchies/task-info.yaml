@@ -1,0 +1,74 @@
+type: edu
+files:
+  - name: src/SealedTraitsTask.scala
+    visible: true
+    placeholders:
+      - offset: 229
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 229
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1tGTZVggZVjy7r/ocPW0Mw0dujwCuaPprBYzAmDfNF+ui5vzFwNpUggZD90hpv0W
+        selected: false
+        status: Unchecked
+      - offset: 270
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 270
+        initialized_from_dependency: false
+        encrypted_possible_answer: W749NIlkqS4uaqq9ZFyUQvZtkENP0iYACaZ6Ik4jWoRf/cBi3mTKl4illfwn13oP
+        selected: false
+        status: Unchecked
+      - offset: 406
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 406
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Unchecked
+      - offset: 447
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 447
+        initialized_from_dependency: false
+        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+        selected: false
+        status: Unchecked
+      - offset: 576
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 576
+        initialized_from_dependency: false
+        encrypted_possible_answer: /gxBgZ9DkPurQeAhOZGqYg==
+        selected: false
+        status: Unchecked
+      - offset: 617
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 617
+        initialized_from_dependency: false
+        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/SealedTraitsTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

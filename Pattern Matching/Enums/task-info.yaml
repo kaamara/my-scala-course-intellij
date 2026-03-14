@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/EnumTask.scala
+    visible: true
+    placeholders:
+      - offset: 565
+        length: 34
+        placeholder_text: /* Put your implementation here */
+        initial_state:
+          length: 34
+          offset: 565
+        initialized_from_dependency: false
+        encrypted_possible_answer: aPb2lJNFQbkYsCy8QiRPyhoWsPOUu3D8V8l6tDYxav1/Ac/pk6sqNfb8j80oDkicPOIPPuyt/ElzZJJkrgwIF7BiaELKo6zrJIzDsdXuN+CVnN2NBiqA/LcMzN7Nb/wS+/qZsKg6ouXXNlmnBWiho7qS6Ht/hFdm7Ma9x6GzLM66Trs5fUMvR9cuerUXmhW8JM/ScSYvixnKi4zLeTiz02bAxRW0JchJjOARqv3sKQ76xiiIRr8RWH198kdV3dP6KPTZrm6f+7yEsTd9O0yWgjwJf7wNfgNpyHLc7yyuQHre+TFleGrCrpWckJD61DI8Ds26H2aTqpryPFef6OgaD2rvXgQ6BnW6d+Nw83s/+5dg7lDhXaFGDHeH4b0pwxIJhk5sj/iMwFyZOArkg95RZXl04hC1vZ7DmsJk2d1Is+xpJn5wy/K/cJImoYW8gcNOsGCOGqNhCXxvGsKm7YWTtv3PK6nxoY0b1liTPrDBsXrD0Sozw4tlzZIRrNfwQ18k49QNCulXc4x6aajY611r7O13cagrjAyLu+fsWD6eETrfrDc2anbPSFIjLzH3AmVskaZMNRUUG4huIUBwcXrciMWHiENZX0KIjX18W7B3toA=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/EnumTestSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

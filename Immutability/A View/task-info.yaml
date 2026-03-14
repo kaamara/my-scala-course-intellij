@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/ViewTask.scala
+    visible: true
+    placeholders:
+      - offset: 114
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 114
+        initialized_from_dependency: false
+        encrypted_possible_answer: N//A+pBvXj0kDapwF2vDDJpxX47TJFjMqVwZLh6Yn4rAZ+KJRwrBIrd1J6zeu44fohsopQ3KkHtVBBVPR4q3yLLp5+rV2MgDNd9sp9WqCl7eyolcPi9Fr/nPtC+VQNY4TTdB6SymhtQ35Me7yx5+f3tfsRqVkeUIoKEA9CJv5pE2WDJY3Weeq9kJ2JUFn/uHbjl/DMhX0OeG7dy3PVlpQTqISsF50wjrt7InRfbKeeXBRx3Pf831QIVNPCj9stFNvmGA6T8ikTlr0+UH+VMo6a7codQ2SYAczOUbmnjWTpRTYTLaG828+57jQHRKqOu6yNC8p5S/Jk49kJ0ULCDV7ynLOPxGnb1f5p5De45zSh466entfmwgxoYTRB4RUqGU4vHL5df6NntMzltTXHu7Sg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/ViewTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

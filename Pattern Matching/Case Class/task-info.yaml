@@ -1,0 +1,65 @@
+type: edu
+custom_name: Case Class
+files:
+  - name: src/CaseClassTask.scala
+    visible: true
+    placeholders:
+      - offset: 192
+        length: 32
+        placeholder_text: /* Define the case class here */
+        initial_state:
+          length: 32
+          offset: 192
+        initialized_from_dependency: false
+        encrypted_possible_answer: sClzFRsqhEZdgCyQHNlLH1E36EGiUd0IHDqOmtXd+ngCbAKUz8JubfZVQH+jIF0sALxtISxaXJ0kjasS+oY/7X0UNT1aWnxR+ksL7hsOYJc=
+        selected: false
+        status: Unchecked
+      - offset: 288
+        length: 24
+        placeholder_text: /* Add a pattern here */
+        initial_state:
+          length: 24
+          offset: 288
+        initialized_from_dependency: false
+        encrypted_possible_answer: rNBlNVg9yuZKeBuLauja6mTKpPHYW7h37Qp3SDTDrFw=
+        selected: false
+        status: Unchecked
+      - offset: 354
+        length: 29
+        placeholder_text: /* put the dog's name here */
+        initial_state:
+          length: 29
+          offset: 354
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5J1OZYYyp1rb54SCj/LsEg==
+        selected: false
+        status: Unchecked
+      - offset: 396
+        length: 30
+        placeholder_text: /* put the dog's breed here */
+        initial_state:
+          length: 30
+          offset: 396
+        initialized_from_dependency: false
+        encrypted_possible_answer: d5cPbpluQizrrhhRjXKMpQ==
+        selected: false
+        status: Unchecked
+      - offset: 458
+        length: 37
+        placeholder_text: /* put the dog's favorite toy here */
+        initial_state:
+          length: 37
+          offset: 458
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5/KMqMsbcTBZ6Jr4gQlz0g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/CaseClassTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

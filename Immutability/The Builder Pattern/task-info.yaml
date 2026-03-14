@@ -1,0 +1,65 @@
+type: edu
+custom_name: The Builder Pattern
+files:
+  - name: test/BuilderPatternTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/BuilderPatternTask.scala
+    visible: true
+    placeholders:
+      - offset: 220
+        length: 29
+        placeholder_text: /* put private fields here */
+        initial_state:
+          length: 29
+          offset: 220
+        initialized_from_dependency: false
+        encrypted_possible_answer: lXQRs2Xk9nwl7gqkzCxXg0oIAQReaiwGFs1avdiI9YY3ekmeLvhR5G/9r3fpndFHj8/tH9HNl8Mhf/BjOWkW9bWZatX41uhMNXVZZjWJm/sBOs9VNgnbQc9Lif010XF0sjkMF1lEeTWNT3ks9BcK/1aXxxGPFGtxFaPHsQIvmu7X7rFX8+YSSazwOZy2JliQ
+        selected: false
+        status: Unchecked
+      - offset: 304
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 304
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6zquSHDBbo2/smjCizXfHN5SbM+p2LE940f0IcsurAQ=
+        selected: false
+        status: Unchecked
+      - offset: 371
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 371
+        initialized_from_dependency: false
+        encrypted_possible_answer: QwLShe+kd0PjbjP3SF3wwMKFnbkiMYAyO5ylpBaAtY4=
+        selected: false
+        status: Unchecked
+      - offset: 437
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 437
+        initialized_from_dependency: false
+        encrypted_possible_answer: rSNmSNYN8rhSSOdiOmz0YPUxyVkYUoa1IOpN3Zhtaj0=
+        selected: false
+        status: Unchecked
+      - offset: 482
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 482
+        initialized_from_dependency: false
+        encrypted_possible_answer: wrAIpS+sOP7y2HUvQrTlH1ffU8lTq+OAbdnzWl6JC3HPmuvNjMY+coTnUEmKDOd4
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,35 @@
+type: edu
+custom_name: Functions Returning Functions
+files:
+  - name: src/FunctionsReturningFunctionsTask.scala
+    visible: true
+    placeholders:
+      - offset: 186
+        length: 44
+        placeholder_text: /* Put the arguments of the function here */
+        initial_state:
+          length: 44
+          offset: 186
+        initialized_from_dependency: false
+        encrypted_possible_answer: By5PvUgXtePe09FryCc4p2/avsMhWq9FLa7KwnExDbM=
+        selected: false
+        status: Unchecked
+      - offset: 237
+        length: 29
+        placeholder_text: /* Put implementation here */
+        initial_state:
+          length: 29
+          offset: 237
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ep7dwpdeB3e8QGZXpjLeyQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/FunctionsReturningFunctionsTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

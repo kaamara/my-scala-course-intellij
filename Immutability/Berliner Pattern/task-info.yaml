@@ -1,0 +1,81 @@
+type: edu
+files:
+  - name: src/BerlinerPatternTask.scala
+    visible: true
+    placeholders:
+      - offset: 1100
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1100
+        initialized_from_dependency: false
+        encrypted_possible_answer: HxeN4HdmLkU3r1ko12mnAASJxuVxPzgkTDm9GDsGRXrP4CkmtcWS8zaOl5Kj/A9N9sjsKjesUNY5Oa+yLoC17ME+2tIckc0ksyqABu9/bqDnJFnM0+d7Zr1XbTKPW9akelKRrLZhAlfVClioUOcpCn87C035nNPfVP/b0i8eZOckusHNsbzWgY2qwmN3+90hNkj/EMKt8/7MikeRa03S/KRfp+4PzH84O8hvpZS+WcICqeWok61EIJ1/kPXBVXlMykvNZWkb+cn4pxgaE2wnywRc9q60cRRgLGItUBH+SC0veW+ypXwa2x+GaZN9S5qctXRlJlAM/OaPEzmh4rrfo2ULDAQRkDKgh0P9kiKvZDnspCFuSTrm5ip/ZVHDE1WtW/kjxGO3xArNpmjgBiww/oRoemF+dIsGWBRC68rwd5yqQ/T5Z+yd+Qwd52JqYDVaxPTKAQK1haceGDDcPg/z77j8nfwWJyTQg+nhlgw2RnQ+J5guHZ6rso07+4iXtHa1
+        selected: false
+        status: Unchecked
+      - offset: 1972
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1972
+        initialized_from_dependency: false
+        encrypted_possible_answer: bK3WrWTLGNF7zFNTVoVwVy8hCrhqhLxLj35E+VJzqj4LCW7ck3Z8ggG/mfUIXBkIeokJTuRo9HUX+jb3Pl6I3nFlI8XCCuGdOGEyFNGg68wULVyF5LX/j39rnf8jKKdqSwzZ195sgR09Ih1NlbV+LEfGSbKzVj43BtWpwkKZkd3JSRcmYJ9CBLQpVvii9zIvwMP6mgzPqEl4tw6T+iJmtA==
+        selected: false
+        status: Unchecked
+      - offset: 2987
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2987
+        initialized_from_dependency: false
+        encrypted_possible_answer: HxeN4HdmLkU3r1ko12mnAJnAiyrrmQQ4aTDxWqVC+sqGJAtEPiFsyoW2zEozeCKLxSK3bWXvpT34T7a5JfsuKldjpPOnBQnAm83aIIVd2q6IojqSZ8AR40M6Rcx9nnbe8IkfIwIgLl6a56Tx4zGwfiMl4INU3ccD2hnYGlTzDsxyP3RWlM1W5TFGok+ve4eBPmHl9nPuYPKvadGl1RoEP3lI+v0PMg4PdQpD9edpCUqP9eND5pZXex7EgN+k9cocx8l517vLe2Fi5QJbAwV1mInqpEEy7i1wswndNtQUOVOXk2EOrHFJBLSAYsljLoE2PIGv1G6G3OljXk/WuDowL1HfDLG6fZeXyNeuUSYbia9xjKUOQoFjJYoiicdwt4oqYMN7FmK7Y4CLBVA536qPa+SOfAR0/bMCl9d0y/epk4bXgGTfWM+afixYhLOha8y7kZSezCSOQM1oT1Je/fa2ewjmHEuCRGCRXQUIj2wo6fE=
+        selected: false
+        status: Unchecked
+      - offset: 3650
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3650
+        initialized_from_dependency: false
+        encrypted_possible_answer: 33qfH/X5/e5s5uqEENEqj9ty/eNUMpvrQG/gsNaZDfreZU66/qMxcIv2JQ+nejJkVTDupXTR0NOvIkdu9GxTW5RYQE8Ub+iyiKNLYkkUrtIOVBXetJ6zZsBh0Sc5at37IdW8/U87yeI+SKd7Ga/gAe1dZ0QmwweYpsfU+yNv8qmkWDdJu+emmmY6UUaJ9532A8yqnSxR/S2KNbKELpk9DU1LS36jLGWRcCD+TZJO+Oy39a7aKPVN091AaCqsxjEy43DMLhxedyexGhkOhwI54A==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/BerlinerPatternTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/Database.scala
+    visible: true
+    placeholders:
+      - offset: 2154
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2154
+        initialized_from_dependency: false
+        encrypted_possible_answer: QkBNDISiHnWE2AdqNsuhceq10bkaZELjF9TGLfaV7WMK08H5LxJF86zKfnk/EV0Gt9d4JUYaSiUmsgj9IuWBU6oKknNr2+Oo8vBq1zJdXOeBuqmvdrteH0V55CotX9tqU3T94HHacBqFpeeervWj4Lp2CWlgCdHAX7DfcTV6HyagSYLkiXju+6USQXhC1vPZ1OZPfzWlxAAlKMraJwRxAoPj8Z/tddjemIsDQx91U3x9wupp6VAP0YLpCHeO58vSRhLvFrqSIudiFfBvgBeV+g==
+        selected: false
+        status: Unchecked
+      - offset: 2439
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2439
+        initialized_from_dependency: false
+        encrypted_possible_answer: QkBNDISiHnWE2AdqNsuhceq10bkaZELjF9TGLfaV7WMK08H5LxJF86zKfnk/EV0GUTkfix/xE3OXrc+fCoxw6eMWXPIkfo/2M5UuZGh4Y8KsEZtH3ftNj7DoaO2+AYdtomuAtdlMFWTpOdSLWAjq6dh9iAejy+nhV/8owajWdBo=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/HttpClient.scala
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

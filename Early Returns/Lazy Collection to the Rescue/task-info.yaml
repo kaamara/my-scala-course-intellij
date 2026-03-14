@@ -1,0 +1,65 @@
+type: edu
+files:
+  - name: test/TestSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/EarlyReturns.scala
+    visible: true
+    learner_created: false
+  - name: src/FurCharacteristic.scala
+    visible: true
+    learner_created: false
+  - name: src/Color.scala
+    visible: true
+    learner_created: false
+  - name: src/Cat.scala
+    visible: true
+    learner_created: false
+  - name: src/Database.scala
+    visible: true
+    learner_created: false
+  - name: src/Breed.scala
+    visible: true
+    learner_created: false
+  - name: src/Pattern.scala
+    visible: true
+    learner_created: false
+  - name: src/Task.scala
+    visible: true
+    placeholders:
+      - offset: 1285
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1285
+        initialized_from_dependency: false
+        encrypted_possible_answer: QmoHVHx0IsOLF2NRUXZQvLAlIoe25uwtxVtlGV9TiU0CTkOFjGRIZxiorK1W+x1lC7tOQgoG9k3pJ8RbrdjoLbbimVdYAx/yERAhYbUcpF4cf15cZy4wMldKqVIK3zjcBmR8bQJMriC7ZkRCDDxxLoWrwvMNMCLVSXCTr85OJ14=
+        selected: false
+        status: Unchecked
+      - offset: 1563
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1563
+        initialized_from_dependency: false
+        encrypted_possible_answer: jQAXKi54/+KI3Lk24lnh8hi86QcWoa95CEoenHN60IuPwQE7TYZCex3BhyaK4PtVHUaTg4G3k6cMhtiF0ZV9dgrhKc0t+3eZmZFZ6TwfZ1HxQiMIR5owTCfjxBaGGLk62cFZFYHzTRs9e2971g0PPhkvOZ2F2PWYwpKgcj8pcFvJUeiVPvCGUOdFhhti2vmxLOwDsjtbP5QqPk3Ufbf0ow==
+        selected: false
+        status: Unchecked
+      - offset: 1856
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1856
+        initialized_from_dependency: false
+        encrypted_possible_answer: WmlVX4Vlrk7PPEhC1WPyXJ6tdxyBzrs8Qa19KwTvtmItnB6yHz9B1TuUOJw2tIWdjIVsbG64MNMqiPAy+L3a44HQslHts1iDYjaqW/WbKxCt4TdrNXJBDJwm87muo63Rz+LmpFjTiN5aIEE8Ps7ZEuIDH3Xw3AeflnCysalShAM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

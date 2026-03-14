@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="80259335">
+                <value>
+                  <list>
+                    <Term value="algebraic data types" definition="Composite types formed by combining other types, commonly using 'sum' and 'product' types." />
+                    <Term value="sealed trait" definition="A trait that can only be extended in the same file, enabling exhaustive pattern matching." />
+                    <Term value="parameterized values" definition="Enum or class values that accept type or value parameters for greater flexibility." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="194054183">
+                <value>
+                  <list>
+                    <Term value="case class" definition="A special class in Scala for immutable data, automatically providing useful methods like equals and copy." />
+                    <Term value="case object" definition="A singleton object in Scala with pattern matching support, similar to a case class but without parameters." />
+                    <Term value="immutable" definition="An object whose state cannot be changed after it is created." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="197528307">
+                <value>
+                  <list>
+                    <Term value="constructor" definition="A special method used to initialize a newly created object in a class." />
+                    <Term value="overridden" definition="Describes a method in a subclass that replaces a method with the same signature in its superclass." />
+                    <Term value="internal state" definition="The data stored within an object that determines its current condition or behavior." />
+                    <Term value="function type" definition="A type that describes functions by specifying their parameter and return types." />
+                    <Term value="captures" definition="When an inner function accesses variables from its enclosing scope, it is said to capture them." />
+                    <Term value="syntax" definition="The set of rules that defines the structure of statements in a programming language." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="220940531">
+                <value>
+                  <list>
+                    <Term value="monad" definition="An abstract data type representing computations as a series of chained operations." />
+                    <Term value="syntactic sugar" definition="Syntax within a programming language designed to make things easier to read or express." />
+                    <Term value="do-notation" definition="A Haskell syntax for sequencing monadic operations in a readable way." />
+                    <Term value="lambda function" definition="An anonymous function that can be defined and used inline." />
+                    <Term value="monadic" definition="Relating to or using monads, often describing computations or operations." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="226501340">
+                <value>
+                  <list>
+                    <Term value="breakpoints" definition="A debugging tool that pauses program execution at a specific line for inspection." />
+                    <Term value="debugger" definition="A tool that helps inspect and control program execution to find and fix bugs." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="294143575">
+                <value>
+                  <list>
+                    <Term value="sealed trait" definition="A Scala construct to restrict which classes can extend a trait, enabling exhaustive pattern matching." />
+                    <Term value="case class" definition="A special Scala class with built-in support for pattern matching and immutability." />
+                    <Term value="Option" definition="A Scala type representing a value that may be present (Some) or absent (None)." />
+                    <Term value="mutable" definition="Describes data that can be changed after its creation, as opposed to immutable data." />
+                    <Term value="flatMap" definition="A higher-order function that applies a function and flattens the result, often used with collections." />
+                    <Term value="lazy" definition="Indicates evaluation is deferred until the value is actually needed, improving efficiency in some cases." />
+                    <Term value="views" definition="A Scala collection abstraction that enables lazy transformations without creating intermediate collections." />
+                    <Term value="algebraic data structures" definition="Composite data types formed by combining other types, often using sum and product types." />
+                    <Term value="abstract syntax tree" definition="A tree representation of the syntactic structure of source code or expressions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="326673974">
+                <value>
+                  <list>
+                    <Term value="higher-order function" definition="A function that takes other functions as parameters or returns a function as a result." />
+                    <Term value="mutability" definition="The ability of a variable or data structure to be changed after its creation." />
+                    <Term value="immutability" definition="The property of an object whose state cannot be modified after it is created." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="582114122">
+                <value>
+                  <list>
+                    <Term value="stack frame" definition="A data structure representing a single function call's execution context on the call stack." />
+                    <Term value="stack overflow" definition="An error that occurs when the call stack exceeds its memory limit, often due to deep recursion." />
+                    <Term value="annotation" definition="A special form of metadata added to code elements, used by the compiler or tools for extra processing." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="661644985">
+                <value>
+                  <list>
+                    <Term value="companion object" definition="An object with the same name as a class, allowing shared access to private members." />
+                    <Term value="primary constructor" definition="The main constructor of a class, defined in the class signature in Scala." />
+                    <Term value="Option[String]" definition="A Scala type representing an optional String value; can be Some(value) or None." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="670747984">
+                <value>
+                  <list>
+                    <Term value="pattern matching" definition="A mechanism for checking a value against a pattern and deconstructing data structures." />
+                    <Term value="singleton" definition="A design pattern ensuring a class has only one instance in the application." />
+                    <Term value="JVM" definition="Java Virtual Machine, the runtime environment for executing Java and Scala bytecode." />
+                    <Term value="enum" definition="A special data type that enables for a variable to be a set of predefined constants." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="729714815">
+                <value>
+                  <list>
+                    <Term value="thread-safe" definition="A property ensuring correct behavior when code is executed by multiple threads simultaneously." />
+                    <Term value="concurrent" definition="Describes execution where multiple computations happen during overlapping time periods." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="737245255">
+                <value>
+                  <list>
+                    <Term value="flatten" definition="A method that collapses nested collections into a single collection by removing one level of nesting." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="754755101">
+                <value>
+                  <list>
+                    <Term value="case class" definition="A special Scala class for immutable data with automatic equals, hashCode, and toString methods." />
+                    <Term value="enum" definition="A Scala type that defines a set of named, constant values." />
+                    <Term value="set" definition="An unordered collection of unique elements in Scala." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="804472244">
+                <value>
+                  <list>
+                    <Term value="union types" definition="A type that allows a value to be one of several specified types." />
+                    <Term value="Nil" definition="The empty list in Scala, representing the end of a linked list." />
+                    <Term value=":+" definition="An operator that appends an element to the end of a collection in Scala." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="921534377">
+                <value>
+                  <list>
+                    <Term value="for-comprehensions" definition="Scala syntax that simplifies working with monads, allowing sequential operations in a readable way." />
+                    <Term value="syntactic sugar" definition="Language features that make code easier to read or write without adding new functionality." />
+                    <Term value="scalaz" definition="A Scala library providing functional programming abstractions like monads and type classes." />
+                    <Term value="cats" definition="A Scala library offering functional programming tools, including type classes and data structures." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="926210212">
+                <value>
+                  <list>
+                    <Term value="non-local returns" definition="A control flow mechanism where a function returns from an outer scope, not just the current function." />
+                    <Term value="lazy collection" definition="A collection where elements are computed only as needed, not all at once." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="988517555">
+                <value>
+                  <list>
+                    <Term value="HashSet" definition="A collection that stores unique elements with fast lookup using a hash table." />
+                    <Term value="HashMap" definition="A collection of key-value pairs with fast access, implemented using a hash table." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="993976008">
+                <value>
+                  <list>
+                    <Term value="pure" definition="A function is pure if it has no side effects and depends only on its arguments." />
+                    <Term value="side effects" definition="Changes or interactions with external state or data outside a function's arguments." />
+                    <Term value="override" definition="Redefine a method in a subclass, replacing the implementation from the superclass." />
+                    <Term value="subclass" definition="A class that extends another class, inheriting its properties and methods." />
+                    <Term value="super" definition="A keyword used in a subclass to refer to the parent class's methods or constructors." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1038763137">
+                <value>
+                  <list>
+                    <Term value="type aliases" definition="A new name for an existing type, used to improve code readability or abstraction." />
+                    <Term value="extension methods" definition="Methods added to existing types without modifying their original definition, introduced in Scala 3." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1043964753">
+                <value>
+                  <list>
+                    <Term value="pattern matching" definition="A feature that checks a value against patterns and executes code based on the match." />
+                    <Term value="enum" definition="A special data type that enables a variable to be a set of predefined constants." />
+                    <Term value="collect" definition="A method that filters and transforms elements of a collection using pattern matching." />
+                    <Term value="Option" definition="A container type that may hold a value (Some) or no value (None)." />
+                    <Term value="Some" definition="Represents an Option containing a value." />
+                    <Term value="None" definition="Represents an Option with no value." />
+                    <Term value="bitwise operations" definition="Operations that directly manipulate individual bits of binary numbers." />
+                    <Term value="alpha channel" definition="The component of a color that represents its transparency level." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1056205986">
+                <value>
+                  <list>
+                    <Term value="side effects" definition="An observable interaction with the outside world, such as modifying a variable or performing I/O." />
+                    <Term value="mutable" definition="An object or variable whose state or value can be changed after creation." />
+                    <Term value="global variable" definition="A variable accessible from any part of the program, not limited to a specific scope." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1093060234">
+                <value>
+                  <list>
+                    <Term value="some" definition="An Option type representing a value that exists, used for optional values in Scala." />
+                    <Term value="None" definition="An Option type representing the absence of a value in Scala." />
+                    <Term value="map" definition="A method that applies a function to the value inside an Option or collection." />
+                    <Term value="find" definition="A method that returns the first element matching a condition in a collection." />
+                    <Term value="collectFirst" definition="A method that returns the first result of a partial function applied to a collection." />
+                    <Term value="case class" definition="A special class in Scala for immutable data, supporting pattern matching." />
+                    <Term value="object" definition="A singleton instance in Scala, often used for utility methods or constants." />
+                    <Term value="Seq" definition="An ordered collection type in Scala, supporting indexed access." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1102725615">
+                <value>
+                  <list>
+                    <Term value="constructor" definition="A special method used to initialize a newly created object of a class." />
+                    <Term value="instance" definition="A specific realization of any object or class in programming." />
+                    <Term value="parameters" definition="A variable used to pass information into a function or method." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1197668843">
+                <value>
+                  <list>
+                    <Term value="monad" definition="An abstraction that allows chaining operations while handling context, such as errors or optionality, in functional programming." />
+                    <Term value="partial function" definition="A function defined only for certain input values, not necessarily all possible inputs of its type." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1202647723">
+                <value>
+                  <list>
+                    <Term value="first-class values" definition="Entities that can be assigned to variables, passed as arguments, and returned from functions." />
+                    <Term value="Pattern Matching" definition="A mechanism for checking a value against a pattern and deconstructing data structures." />
+                    <Term value="Cats library" definition="A popular Scala library providing functional programming abstractions like monads, functors, and type classes." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1255465277">
+                <value>
+                  <list>
+                    <Term value="Iterable" definition="A trait in Scala representing a collection of elements that can be iterated over." />
+                    <Term value="enum" definition="A special data type in Scala for defining a set of named constants." />
+                    <Term value="case class" definition="A Scala class optimized for immutable data and pattern matching." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1335463179">
+                <value>
+                  <list>
+                    <Term value="trait" definition="A Scala construct to define abstract interfaces that can be mixed into classes." />
+                    <Term value="objects" definition="A singleton instance in Scala, used for utility methods or as a holder for values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1373610774">
+                <value>
+                  <list>
+                    <Term value="pattern matching" definition="A mechanism for checking a value against patterns, often used for deconstructing data structures." />
+                    <Term value="companion object" definition="An object with the same name as a class, providing factory methods and shared functionality." />
+                    <Term value="factory" definition="A design pattern or method used to create objects, often abstracting instantiation details." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1378650949">
+                <value>
+                  <list>
+                    <Term value="extractor" definition="An object with an unapply method used for pattern matching and data extraction in Scala." />
+                    <Term value="pattern matching" definition="A mechanism for checking a value against patterns, often using case statements." />
+                    <Term value="trait" definition="A reusable collection of fields and methods that can be mixed into classes in Scala." />
+                    <Term value="abstracted" definition="A modifier for methods or classes that are declared but not implemented, to be defined by subclasses." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1386391163">
+                <value>
+                  <list>
+                    <Term value="mutexes" definition="Synchronization primitives that prevent multiple threads from accessing shared data simultaneously." />
+                    <Term value="monitors" definition="Concurrency constructs that combine mutual exclusion and the ability to wait for a condition." />
+                    <Term value="collection" definition="A data structure that groups multiple elements, such as lists, sets, or maps." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1417993824">
+                <value>
+                  <list>
+                    <Term value="enum" definition="A special data type that enables for a variable to be a set of predefined constants." />
+                    <Term value="case class" definition="A special type of class in Scala optimized for immutable data and pattern matching." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1443035767">
+                <value>
+                  <list>
+                    <Term value="panic" definition="A program state where execution is aborted due to a critical error." />
+                    <Term value="partial function" definition="A function not defined for all possible input values of its domain." />
+                    <Term value="total function" definition="A function defined for every possible input value of its domain." />
+                    <Term value="monad" definition="An abstraction that allows sequencing of computations, handling values and context together." />
+                    <Term value="constructor" definition="A special method or function used to create and initialize an object or instance." />
+                    <Term value="trait" definition="A Scala construct similar to an interface, allowing code reuse and multiple inheritance." />
+                    <Term value="pattern matching" definition="A mechanism for checking a value against patterns, often used for branching logic." />
+                    <Term value="enum" definition="A special data type that enables a variable to be a set of predefined constants." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1456013567">
+                <value>
+                  <list>
+                    <Term value="enum" definition="A special type that defines a set of named values, called cases, in Scala." />
+                    <Term value="case class" definition="A class in Scala optimized for immutable data and pattern matching." />
+                    <Term value="set" definition="An unordered collection of unique elements in Scala." />
+                    <Term value="import" definition="A Scala keyword used to bring members from a package or object into scope." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1540579920">
+                <value>
+                  <list>
+                    <Term value="partial functions" definition="A function defined only for a subset of possible input values." />
+                    <Term value="destructuring" definition="Extracting values from data structures, like tuples or case classes, into separate variables." />
+                    <Term value="case classes" definition="Special Scala classes optimized for pattern matching and immutability." />
+                    <Term value="newtype" definition="A pattern for creating a distinct type from an existing one without runtime overhead." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1582561665">
+                <value>
+                  <list>
+                    <Term value="enum" definition="A special data type that enables for a variable to be a set of predefined constants." />
+                    <Term value="set" definition="An unordered collection of unique elements in Scala." />
+                    <Term value="anonymous function" definition="A function defined without a name, often used as a short, inline function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1714467468">
+                <value>
+                  <list>
+                    <Term value="case class" definition="A special Scala class for immutable data with built-in equals, hashCode, and pattern matching." />
+                    <Term value="options" definition="A Scala type representing a value that may be present (Some) or absent (None)." />
+                    <Term value="method chaining" definition="A technique where method calls are linked together in a single statement." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1727451673">
+                <value>
+                  <list>
+                    <Term value="enum" definition="A special data type that enables a variable to be a set of predefined constants." />
+                    <Term value="trait" definition="A type in Scala that defines fields and methods, which can be mixed into classes." />
+                    <Term value="case class" definition="A special type of class in Scala optimized for pattern matching and immutability." />
+                    <Term value="Seq" definition="An ordered collection in Scala that allows indexed access to elements." />
+                    <Term value="collect" definition="A method that applies a partial function to a collection, filtering and transforming elements." />
+                    <Term value="isDefinedAt" definition="A method that checks if a partial function is defined for a given input." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1730908000">
+                <value>
+                  <list>
+                    <Term value="Seq" definition="An immutable sequence collection in Scala, similar to a list." />
+                    <Term value="list" definition="An immutable, singly linked list collection in Scala." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1830995401">
+                <value>
+                  <list>
+                    <Term value="predicate" definition="A function that returns true or false for a given input, often used for filtering." />
+                    <Term value="collection" definition="A data structure that holds multiple elements, like lists, sets, or arrays." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1850165578">
+                <value>
+                  <list>
+                    <Term value="lazy" definition="A computation that is delayed until its result is actually needed." />
+                    <Term value="eager" definition="A computation that is performed immediately, rather than being delayed." />
+                    <Term value="head" definition="A method that returns the first element of a collection." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1870558433">
+                <value>
+                  <list>
+                    <Term value="predicate" definition="A function that returns true or false, often used to test conditions on data." />
+                    <Term value="referential transparency" definition="A property where an expression can be replaced with its value without changing program behavior." />
+                    <Term value="code smell" definition="A pattern in code that may indicate a deeper problem or poor design." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1966655034">
+                <value>
+                  <list>
+                    <Term value="side effects" definition="Observable effects of computation other than returning a value, like modifying variables or printing output." />
+                    <Term value="idiomatic" definition="A style or pattern of code that is considered natural and standard in a programming language." />
+                    <Term value="prefix" definition="A substring that appears at the beginning of another string." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1989253026">
+                <value>
+                  <list>
+                    <Term value="pattern matching" definition="A mechanism for checking a value against a pattern and deconstructing data structures." />
+                    <Term value="constructor" definition="A special method for creating and initializing a new instance of a class." />
+                    <Term value="subclasses" definition="Classes that inherit properties and methods from another class, called the superclass." />
+                    <Term value="total function" definition="A function defined for every possible input value of its domain." />
+                    <Term value="partial function" definition="A function not defined for all possible input values of its domain." />
+                    <Term value="standard library" definition="A collection of pre-written classes and functions included with a programming language." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2004742771">
+                <value>
+                  <list>
+                    <Term value="non-determinism" definition="A property where a computation can yield multiple possible results, not just one." />
+                    <Term value="flatMap" definition="A higher-order function that applies a function and flattens the resulting collections into one." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2032307331">
+                <value>
+                  <list>
+                    <Term value="accumulator" definition="A variable used to collect or accumulate a result across recursive or iterative calls." />
+                    <Term value="tail-recursive" definition="A recursion where the recursive call is the last operation in the function." />
+                    <Term value="private" definition="A visibility modifier restricting access to members within the same class or object." />
+                    <Term value="module" definition="A file or grouping of code, often representing a namespace or unit of organization." />
+                    <Term value="scoping" definition="The rules that determine where variables or functions are accessible in code." />
+                    <Term value="higher-order" definition="A function that takes other functions as parameters or returns a function." />
+                    <Term value="filter" definition="A method that selects elements from a collection based on a predicate function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2034479669">
+                <value>
+                  <list>
+                    <Term value="placeholder" definition="A symbol (like _) used to indicate missing arguments in partially applied functions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2103560752">
+                <value>
+                  <list>
+                    <Term value="Sieve of Eratosthenes" definition="An ancient algorithm for finding all prime numbers up to a given limit." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2147007800">
+                <value>
+                  <list>
+                    <Term value="companion object" definition="An object with the same name as a class, defined in the same file, providing related methods." />
+                    <Term value="option" definition="A container type that may hold a value or be empty, representing optional values in Scala." />
+                    <Term value="pattern matching" definition="A mechanism for checking a value against patterns and executing code based on the match." />
+                    <Term value="guard" definition="An additional boolean condition in a pattern match case to further filter matches." />
+                    <Term value="wildcard operator" definition="The underscore (_) used to ignore a value or parameter in Scala expressions." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="99" />
+      </map>
+    </termsVersions>
+  </component>
+</project>

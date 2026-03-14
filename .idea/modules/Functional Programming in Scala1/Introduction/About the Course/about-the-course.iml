@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="about-the-course [file:///C:/Users/HARDPC/Functional%20Programming%20in%20Scala1/Introduction/About%20the%20Course/]" external.linked.project.path="C:\Users\HARDPC\Functional Programming in Scala1\Introduction\About the Course" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="about-the-course" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Introduction/About the Course">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Introduction/About the Course/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="about-the-course.main" />
+    <orderEntry type="module" module-name="about-the-course.test" production-on-test="" />
+  </component>
+</module>

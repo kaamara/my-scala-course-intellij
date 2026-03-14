@@ -1,0 +1,54 @@
+type: edu
+files:
+  - name: test/SmartConstructorsTaskSpec.scala
+    visible: false
+    learner_created: false
+  - name: build.sbt
+    visible: false
+    learner_created: false
+  - name: src/SmartConstructorsTask.scala
+    visible: true
+    placeholders:
+      - offset: 42
+        length: 60
+        placeholder_text: /* prevent the user from by-passing the smart constructor */
+        initial_state:
+          length: 60
+          offset: 42
+        initialized_from_dependency: false
+        encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
+        selected: false
+        status: Unchecked
+      - offset: 265
+        length: 57
+        placeholder_text: /* pick a string to use as a default value for a breed */
+        initial_state:
+          length: 57
+          offset: 265
+        initialized_from_dependency: false
+        encrypted_possible_answer: zbE5APpspT/GvRGcOzMa9w==
+        selected: false
+        status: Unchecked
+      - offset: 346
+        length: 58
+        placeholder_text: /* pick a string to use as a devalue value for an owner */
+        initial_state:
+          length: 58
+          offset: 346
+        initialized_from_dependency: false
+        encrypted_possible_answer: azAxPu58qIFtPCF7pQNSXVSNmG5VVGQyP9FmowDCHCQ=
+        selected: false
+        status: Unchecked
+      - offset: 611
+        length: 26
+        placeholder_text: /* implement the method */
+        initial_state:
+          length: 26
+          offset: 611
+        initialized_from_dependency: false
+        encrypted_possible_answer: vJwsCIhXzSj+uA0RclZSKaINlWUgcW+Q+GOddfgbciXP8eapdv5IZdkl5U8bAqureaRwPlYEbmLRpkGabNph0WZAeYo0yEXm1qVXItpBc8c=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
