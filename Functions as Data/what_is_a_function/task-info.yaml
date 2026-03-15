@@ -13,7 +13,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: BjyIBIA//9VjH0ziBu1hWSwwILe3gNYW+R7owGNEGzM2Tk0L/Jzn6aLSNRHrVnm2zP0TkWvxJKTtOTyuMBjFGg==
         selected: false
-        status: Unchecked
+        status: Solved
       - offset: 435
         length: 58
         placeholder_text: /* TODO */
@@ -23,7 +23,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: a0w5agz3o4lxQN5+NAxMg9ahyse20mYDvRQEas3LYeY/1es0kdHIJU+LV/DCT54mPwf8uq38nKOIjacjEkOLDg==
         selected: false
-        status: Unchecked
+        status: Solved
       - offset: 664
         length: 63
         placeholder_text: /* TODO */
@@ -33,7 +33,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: Gu+psucVLbEZ2oemAmFkAYQnr2PlrZRAKjol7RJw1JMdmceKmjIjoqnbwJpizkoiUox3w5GiJhjMB3ye5IKDAg==
         selected: false
-        status: Unchecked
+        status: Solved
       - offset: 742
         length: 410
         placeholder_text: /* TODO */
@@ -43,7 +43,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: Gu+psucVLbEZ2oemAmFkAXCzeTUpn1eVu7F+sJ+P4XNt463foo086ZIkPFSx7jwOpPazIOOQ6vQ0xh5M+dzvfkIOMStFiYDg7jTnCU/pjC2TPbwoRNGu3QCIHaVRJs4XQnhaL1Morn4MzfTV2E0EgqRUViXv7OzLJtI1Z1N/QQZeLRhw5RuvFC7S21E2OxCV
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: test/FunctionsAndMethodsSpec.scala
     visible: false

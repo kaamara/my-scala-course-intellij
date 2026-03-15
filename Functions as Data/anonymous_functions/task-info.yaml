@@ -11,15 +11,18 @@ files:
     visible: true
     placeholders:
       - offset: 122
-        length: 10
+        length: 41
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 122
         initialized_from_dependency: false
         encrypted_possible_answer: 6IdSE9LHevhqGVR1YELTwkg/R8R+WzriN/VH0brhJbvUROuJYNncAUekADh3FEib
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 15 Mar 2026 16:44:03 UTC"
 record: -1

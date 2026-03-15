@@ -1,3 +1,3 @@
 object AnonymousFunctions:
   def multiplyAndOffsetList(multiplier: Int, offset: Int, numbers: List[Int]): List[Int] =
-    /* TODO */
+    numbers.map(x => x * multiplier + offset)
