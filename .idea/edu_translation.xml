@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Polish" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Polish">
+          <value>
+            <map>
+              <entry key="1038763137" value="Wzorzec Newtype  " />
+              <entry key="1043964753" value="Własna metoda unapply  " />
+              <entry key="1049776435" value="Wprowadzenie  " />
+              <entry key="1056205986" value="Czyste vs Nieczyste Funkcje  " />
+              <entry key="1087461982" value="Monady  " />
+              <entry key="1093060234" value="Pierwsze Kroki  " />
+              <entry key="1102725615" value="Kopiowanie Case Class  " />
+              <entry key="1197668843" value="Użyj Try zamiast try-catch  " />
+              <entry key="1202647723" value="O kursie  " />
+              <entry key="1255465277" value="map  " />
+              <entry key="1284218401" value="Dopasowywanie wzorców  " />
+              <entry key="1335463179" value="Using Clause dla Przekazywania Niemutowalnego Kontekstu  " />
+              <entry key="1373610774" value="Case Class  " />
+              <entry key="1378650949" value="Unapply  " />
+              <entry key="1385523494" value="Wyrażenia zamiast instrukcji  " />
+              <entry key="1386391163" value="Berliński Wzorzec  " />
+              <entry key="1417993824" value="flatMap  " />
+              <entry key="1443035767" value="Either jako Alternatywa dla Wyjątków  " />
+              <entry key="1456013567" value="filter  " />
+              <entry key="1540579920" value="Dopasowywanie wzorców  " />
+              <entry key="1582561665" value="Przekazywanie funkcji jako argumentów  " />
+              <entry key="1714467468" value="Wzorzec Builder  " />
+              <entry key="1727451673" value="Funkcje całkowite i częściowe  " />
+              <entry key="1730908000" value="Funkcje anonimowe  " />
+              <entry key="1830995401" value="find  " />
+              <entry key="1850165578" value="Widok  " />
+              <entry key="1870558433" value="Problem  " />
+              <entry key="194054183" value="Hierarchie Sealed Traits  " />
+              <entry key="1966655034" value="Czym jest Wyrażenie?  " />
+              <entry key="197528307" value="Funkcje zwracające funkcje  " />
+              <entry key="1989253026" value="Option jako Alternatywa dla null  " />
+              <entry key="2004742771" value="Non-Determinism z Listami  " />
+              <entry key="2032307331" value="Zagnieżdżone Metody  " />
+              <entry key="2034479669" value="Częściowe zastosowanie funkcji  " />
+              <entry key="2103560752" value="Lazy List  " />
+              <entry key="2147007800" value="Rozkładanie (Destructuring)  " />
+              <entry key="220940531" value="Syntactic Sugar i For-Comprehensions  " />
+              <entry key="226501340" value="Porównanie Widoku i Kolekcji Leniwych  " />
+              <entry key="236570592" value="Ankieta Zwrotna" />
+              <entry key="294143575" value="Rekurencja  " />
+              <entry key="326673974" value="Kolekcje Scala zamiast imperatywnych pętli  " />
+              <entry key="499944730" value="Wczesne zwroty  " />
+              <entry key="561214416" value="Dołącz do naszej społeczności na Discordzie  " />
+              <entry key="568448597" value="Niezmienność  " />
+              <entry key="582114122" value="Ogona Rekurencja  " />
+              <entry key="661644985" value="Inteligentni konstruktorzy i metoda apply  " />
+              <entry key="670747984" value="Case Objects  " />
+              <entry key="729714815" value="Lazy Val  " />
+              <entry key="734547733" value="Funkcje jako dane  " />
+              <entry key="737245255" value="Kolekcja Leniwa na Ratunek  " />
+              <entry key="754755101" value="foreach  " />
+              <entry key="80259335" value="Enums  " />
+              <entry key="804472244" value="foldLeft  " />
+              <entry key="856747357" value="Poznajmy się  " />
+              <entry key="921534377" value="Prawa Monad  " />
+              <entry key="926210212" value="Łamanie Granic  " />
+              <entry key="987212155" value="Zakończenie  " />
+              <entry key="988517555" value="Przegląd kolekcji Scala  " />
+              <entry key="993976008" value="Czym jest funkcja?  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Polish" value="840" />
+      </map>
+    </option>
+  </component>
+</project>

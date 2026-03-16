@@ -10,5 +10,8 @@ files:
   - name: src/Task.scala
     visible: true
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 16 Mar 2026 19:29:18 UTC"
 record: -1

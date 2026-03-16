@@ -12,7 +12,7 @@ object PassingFunctionsAsArguments:
   val bagOfCats = Set(Cat(Color.Black), Cat(Color.White), Cat(Color.Ginger))
 
   // Implement a function which checks if a cat is white go ginger
-  def isCatWhiteOrGinger(cat: Cat): Boolean = /* Check if the cat is white */
+  def isCatWhiteOrGinger(cat: Cat): Boolean = cat.color == Color.White || cat.color == Color.Ginger
 
   // Pass the appropriate function into `filter` to create a bag of white cats.
-  val bagOfWhiteOrGingerCats = bagOfCats.filter(/* Pass a function as an argument */)
+  val bagOfWhiteOrGingerCats = bagOfCats.filter(isCatWhiteOrGinger)

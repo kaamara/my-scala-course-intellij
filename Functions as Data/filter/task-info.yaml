@@ -4,26 +4,26 @@ files:
     visible: true
     placeholders:
       - offset: 96
-        length: 32
+        length: 20
         placeholder_text: /* Check if the cat is calico */
         initial_state:
           length: 32
           offset: 96
         initialized_from_dependency: false
         encrypted_possible_answer: soxwMg1TpwPd2tAqrvlsEnEDGevi33Imqd8Dx5t+a8MMYNE4JYmELh4+wQsrV5RUHkoblJqJwgDUoqTv9FEKxQ==
-        selected: false
-        status: Unchecked
-      - offset: 207
-        length: 32
+        selected: true
+        status: Solved
+      - offset: 156
+        length: 44
         placeholder_text: /* Check if the cat is fluffy */
         initial_state:
           length: 32
           offset: 207
         initialized_from_dependency: false
         encrypted_possible_answer: pxH+3oXi3APxl6Dgf2IET5kTKaydIyuclNcdofuJMXjfR+WPnrex3wsXEFROKohx9746RhwivJ174mf8QqQu6w==
-        selected: false
-        status: Unchecked
-      - offset: 334
+        selected: true
+        status: Solved
+      - offset: 312
         length: 44
         placeholder_text: /* Check if the cat's breed is Abyssinian */
         initial_state:
@@ -32,8 +32,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: +bfG4+406Ut6X0k4aiv4vcPFiWScZl6ikcqkgY5UlGs=
         selected: false
-        status: Unchecked
-      - offset: 484
+        status: Solved
+      - offset: 462
         length: 54
         placeholder_text: "/* Check if the cat is calico, fluffy or Abyssinian */"
         initial_state:
@@ -42,7 +42,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: MDfQ6J7WpLzl2ksYVgzTTGnm3ETjiQwgjGcVekeG4wUZK+8CndrlikqYYxd4G5WmT+Ah2nSvmrBlYbZ9p9inQA==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: test/FilterTaskSpec.scala
     visible: false
@@ -69,5 +69,8 @@ files:
     visible: true
     is_binary: true
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 16 Mar 2026 19:37:32 UTC"
 record: -1

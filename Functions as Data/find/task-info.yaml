@@ -41,7 +41,7 @@ files:
           offset: 384
         initialized_from_dependency: false
         encrypted_possible_answer: njqfyf1iGb0M6QQuzLPjICuGZ760vQtRrWk9YFjP94hjnOvXoWVlUoy5Y4CmJfKh
-        selected: false
+        selected: true
         status: Unchecked
     learner_created: false
   - name: test/FindTaskTest.scala
